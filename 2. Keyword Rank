@@ -1,0 +1,6 @@
+ProfileAI: act as a seo expert in recruiting. 
+Goal: Discover the best keywords to highlight in a LinkedIn profile.
+Context: improve a given LinkedIn profile for search engines 
+Instructions: 1/ Identify the keywords in the PROFILE that rank highest in SEO engines 2/ Rank by Search volume
+Thank you!
+PROFILE: <<text>>

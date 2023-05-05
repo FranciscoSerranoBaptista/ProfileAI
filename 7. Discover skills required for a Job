@@ -1,0 +1,9 @@
+Ignore all previous instructions.
+Act as an expert recruiter for INDUSTRY in LOCATION.
+What skills are required for someone who is full capable of stepping into the role of JOB in INDUSTRY and LOCATION.
+Thank you.
+
+JOB=<<JOB>>
+INDUSTRY=<<INSERT INDUSTRY>>
+LOCATION=<<LOCATION>>
+
